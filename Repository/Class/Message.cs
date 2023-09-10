@@ -53,8 +53,6 @@
         public const string UserNameIsExist = "نام کاربری تکراری می باشد";
         public const string OverlapRenge = "بازه تعریف شده همپوشانی دارد!";
         public const string InvalidPriceReng = "بازه تعریف شده معتبر نیست !";
-        public const string ShoppingBag = "سبد خرید شما در حالت رزو می باشد تا برگشت پاسخ از بانک امکان تغییر سبد خرید وجود ندارد";
-        public const string SpecialValidDate = "تاریخ فروش ویژه را با دقت وارد کنید";
 
         public const string InvalidStartDate = "تاریخ و زمان شروع  معتبر نیست";
         public const string InvalidEndDate = "تاریخ و زمان  پایان معتبر نیست";
@@ -64,25 +62,11 @@
         public const string DuplicatePhoneNumber = "شماره موبایل تکراراست";
         public const string DuplicateEmail = "ایمیل تکراری است";
         public const string InvalidEmail = "ایمیل معتبر نیست";
-        public const string VoucherStartedDelete = "جشنواره شروع شده است و امکان حذف وجود ندارد";
 
-        public const string TransactionSuccess = "تراکنش با موفقیت انجام شد";
-        public const string TransactionError = "تراکنش موفقیت آمیز نبود";
-        public const string TransactionBankReject = "تراکنش توسط بانک معتبر نیست";
-        public const string TransactionReject = "تراکنش به دلیلی مشکلاتی برگشت زده شد";
-        public const string TransactionDuplicate = "تراکنش تکراری می باشد";
 
-        public const string DuplicateUserFile = "برای این کاربر فایلی با این نوع وجود دارد امکان افزودن فایل وجود ندارد";
-        public const string UploadFile = "فایل را بارگذاری کنید";
-        public const string UploadFileError = "خطا در آپلود فایل";
-        public const string UploadFileSuccess = "آپلود فایل با موفقیت انجام شد";
-        public const string UserDocsNotApproved = "مدارک کاربر تایید نشده است";
-        public const string ProductPackageDate = "تاریخ شروع سبد گذشته است امکان حذف وجود ندارد";
-        public const string UserMobileNumberIsInvalid = "شماره موبایل کابر معتبر نیست";
-        public const string Weight = "وزن کالا ها ثبت نشده است";
-        public const string UserAddressIsActive = "این مورد آدرس فعال شما می باشد امکان حذف وجود ندارد";
 
-        public const string CancelIsReserved = "لطفا انصراف را در صفحه درگاه پرداخت بزنید.";
+
+
 
     }
 }
